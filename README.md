@@ -8,4 +8,4 @@ Install live server from VS Code extensions and right click `index.html` file an
 
 ## Demo
 
-https://tea-station-html-css.netlify.com/
+https://html-table.netlify.app/
