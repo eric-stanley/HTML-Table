@@ -9,4 +9,5 @@ Install live server from VS Code extensions and right click `index.html` file an
 ## Demo
 
 https://html-table.netlify.app/ <br />
-https://html-table.onrender.com/
+https://html-table.onrender.com/ <br />
+https://html-table.vercel.app/
